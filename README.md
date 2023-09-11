@@ -17,6 +17,8 @@ No vi necesario utilizar un package para las llamadas a la API pero en caso de s
 
 Implementé el buscador y favorito.
 
+Utilicé Alloctions tool para estar seguro que todos los objetos son dealocados correctamente.
+
 ## Falta implementar
 UI Tests
 
