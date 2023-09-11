@@ -1,1 +1,24 @@
 # pdchallenge
+
+Challenge creado para cuplir con la consigna del Mobile code challenge.
+
+## Arquitectura
+Model View View Model
+
+## Unit Tests
+Test sobre el parse del json de las respuestas y para validar que el ViewModel realice las llamadas a los repositorios.
+No he utilizado ningún framework para realizar los Unit Tests.
+
+## Packages usados
+Solo integré el package SDWebImage para demostrar como utilizar un paquete.
+
+## Nota
+No vi necesario utilizar un package para las llamadas a la API pero en caso de ser necesario podría agregarlo.
+
+Implementé el buscador y favorito.
+
+## Falta implementar
+UI Tests
+
+Unit Tests en caso de network error
+
