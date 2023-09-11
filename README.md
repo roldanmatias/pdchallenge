@@ -9,6 +9,8 @@ Model View View Model
 Test sobre el parse del json de las respuestas y para validar que el ViewModel realice las llamadas a los repositorios.
 No he utilizado ningún framework para realizar los Unit Tests.
 
+UI Test para validar que la pantalla de inicio muestre el buscador y los characteres.
+
 ## Packages usados
 Solo integré el package SDWebImage para demostrar como utilizar un paquete.
 
@@ -20,7 +22,7 @@ Implementé el buscador y favorito.
 Utilicé Alloctions tool para estar seguro que todos los objetos son dealocados correctamente.
 
 ## Falta implementar
-UI Tests
+Más UI Tests
 
 Unit Tests en caso de network error
 
