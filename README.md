@@ -1,6 +1,6 @@
 # pdchallenge
 
-Challenge creado para cuplir con la consigna del Mobile code challenge.
+Challenge creado para cumplir con la consigna del Mobile code challenge.
 
 ## Arquitectura
 Model View View Model
